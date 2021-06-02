@@ -17,7 +17,8 @@ This project investigates various features, such as age groups, ethnicity, sex, 
 
 
 ### __Directory:__
-In order to see the process of this project with explanations and interpretations, please see the jupyter notebook file, named "health_insurance_notebook" in this repository. If you want to see code only, please see the the "health_insurance_code" file. 
+- Notebook: In order to see the process of this project with explanations and interpretations, please see the jupyter notebook file, named "health_insurance_notebook" in this repository. 
+- Code file: If you want to see code only, please see the the "health_insurance_code" file. 
 
 
 
