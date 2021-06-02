@@ -7,7 +7,7 @@
 
 
 
-
+![](introduction.jpg "Title")
 
 
 
@@ -41,7 +41,7 @@ This project uses the following methods to accomplish the goal:
 
 ### __Conclusion:__
 
-![](result1.png "Title")
+![](result1.JPG "Title")
 
 This project explores various features such as age group, sex, income poverty ratio, ethnicity, etc. And we observe that among the features, income poverty ratio, state, and ethnicity particularly play big roles influencing the uninsured ratio. The uninsured ratio is high when the income poverty ratio is low. And among all the ethnicity groups, Hispanics have the highest uninsured ratio. Also, Georgia has the highest uninsured ratio in the United States.
 
